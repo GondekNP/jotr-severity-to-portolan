@@ -1,0 +1,9 @@
+# Pixi env
+.pixi/
+
+# Python and mypy caches
+__pycache__/
+.mypy_cache/
+
+# GDAL stuff
+*.aux.xml
